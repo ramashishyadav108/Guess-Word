@@ -7,7 +7,6 @@ Players must **select the correct letters** to form valid words before time runs
 The game supports three languages:  
 🏆 **Hindi**  
 🏆 **Manipuri**  
-🏆 **English**  
 
 ## 🛠 Technologies Used  
 🔹 **C++** (Core Game Logic)  
