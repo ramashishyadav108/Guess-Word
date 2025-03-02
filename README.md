@@ -4,7 +4,7 @@
 Guess Word Game is an exciting word puzzle game where **letters appear on different moving balls**.
 Players must **select the correct letters** to form valid words before time runs out. 
 
-The game supports three languages:  
+The game supports two languages:  
 🏆 **Hindi**  
 🏆 **Manipuri**  
 
