@@ -11,7 +11,7 @@ The game supports two languages:
 ## 🛠 Technologies Used  
 🔹 **C++** (Core Game Logic)  
 🔹 **OpenGL** (Graphics & Animation)  
-🔹 **MongoDB** (Authentication & High-Score Tracking)  
+🔹 **MySql** (Authentication & High-Score Tracking)  
 
 ## 🎯 How to Play  
 🟢 Select a language (Hindi, Manipuri, or English)  
